@@ -1,0 +1,10 @@
+name: fire
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - seaborn
+  - ipykernel
+  - matplotlib
+  - scikit-learn
+  
